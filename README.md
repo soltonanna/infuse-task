@@ -1,7 +1,7 @@
 <img src="src/images/InfuseTask.jpg" alt="Infuse Task" />
 
 ## Spent Time on task
-<img src="images/Time.jpg" alt="time" />
+<img src="src/images/Time.jpg" alt="time" />
 
 ## OurCompany, Inc.
 Test Task for INFUSE company !
