@@ -35,7 +35,7 @@ function copyHtml() {
   return src('src/index.html')
     .pipe(replace('../dist/css/styles.min.css', './css/styles.min.css'))
     .pipe(replace('../dist/script/main.min.js', './script/main.min.js'))
-    .pipe(replace('../images/', './assets/img/'))
+    .pipe(replace('images/', './assets/img/'))
     .pipe(dest('dist'));
 }
 
